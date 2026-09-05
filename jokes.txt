@@ -1,506 +1,417 @@
-Wife (normal): सुनो जी, कल रात इतनी देर से घर क्यों आए?
-Husband (shock, zoom): अरे वो… रास्ते में दोस्त मिल गया था!
-Wife (slap, zoom_shake): रात के दो बजे?
-Husband (cry, shake): दोस्त नहीं मिला था, किस्मत मिल गई थी!
-
-=====
 Wife (normal): सुनो जी, फोन में पासवर्ड क्यों लगाया है?
 Husband (nervous, zoom): अरे प्राइवेसी के लिए!
 Wife (shock, shake): मुझसे क्या प्राइवेसी?
 Husband (cry, zoom_shake): अब तो अपनी जान बचाने के लिए लगाया है!
-
 =====
 Wife (normal): आज खाना कैसा बना है?
 Husband (nervous, zoom): बहुत बढ़िया बना है!
 Wife (happy, shake): सच बोल रहे हो?
 Husband (cry): हाँ, इतना बढ़िया कि नमक भी डर के मारे कम है!
-
 =====
 Wife (normal): सुनो जी, मेरी नई साड़ी कैसी लग रही है?
 Husband (romantic, zoom): एकदम रानी लग रही हो!
 Wife (happy, shake): सच में?
 Husband (shock, zoom_shake): हाँ… बिल देखकर राजा जरूर गरीब हो गया!
-
 =====
 Wife (normal): तुमने मेरी अलमारी क्यों खोली?
 Husband (shock, zoom): अरे कपड़े ढूँढ रहा था!
 Wife (angry, shake): अपने कपड़े मेरी अलमारी में क्यों?
 Husband (cry): क्योंकि अपनी अलमारी में जगह नहीं… तेरी साड़ियाँ राज कर रही हैं!
-
 =====
 Wife (normal): सुनो जी, आज मेरे लिए क्या लाए हो?
 Husband (happy, zoom): सरप्राइज है!
 Wife (excited, shake): जल्दी दिखाओ!
 Husband (cry): पहले बेलन नीचे रखो, फिर सरप्राइज दिखाता हूँ!
-
 =====
 Wife (normal): तुम मुझसे शादी करके खुश हो?
 Husband (nervous, zoom): बहुत खुश हूँ!
 Wife (happy, shake): कितने खुश?
 Husband (cry): इतना कि अब मायके जाने पर घर बहुत शांत लगता है!
-
 =====
 Wife (normal): सुनो जी, मेरे मायके वाले कैसे हैं?
 Husband (nervous, zoom): बहुत अच्छे हैं!
 Wife (happy, shake): सच?
 Husband (cry): हाँ, बस मिलने से पहले दिल की धड़कन तेज हो जाती है!
-
 =====
 Wife (normal): तुम कल मेरे मैसेज का जवाब क्यों नहीं दिए?
 Husband (shock, zoom): मोबाइल की बैटरी खत्म थी!
 Wife (angry, shake): ऑनलाइन कैसे थे फिर?
 Husband (cry, zoom_shake): मोबाइल नहीं, मेरी शामत ऑनलाइन थी!
-
 =====
 Wife (normal): सुनो जी, ये नया कुर्ता कितने का है?
 Husband (nervous, zoom): बस थोड़ा सा महँगा है!
 Wife (shock, shake): कितना?
 Husband (cry): जितना पूछोगी, उतना मेरा डर बढ़ेगा!
-
 =====
 Wife (normal): तुमने आज चाय क्यों नहीं बनाई?
 Husband (shock, zoom): गैस खत्म थी!
 Wife (slap, shake): गैस तो भरी पड़ी है!
 Husband (cry): फिर मेरी हिम्मत खत्म थी!
-
 =====
 Wife (normal): सुनो जी, घर में पैसे कम क्यों हैं?
 Husband (nervous, zoom): खर्च हो गए!
 Wife (shock, shake): कहाँ?
 Husband (cry): तेरी शॉपिंग में… अब हिसाब मत पूछना!
-
 =====
 Wife (normal): तुम मुझे मोटी समझते हो?
 Husband (shock, zoom): बिल्कुल नहीं!
 Wife (angry, shake): फिर तराजू देखकर क्यों हँसे?
 Husband (cry): तराजू पर वजन नहीं, अपनी हालत देखकर हँसा था!
-
 =====
 Wife (normal): सुनो जी, मेरी सहेली सुंदर है?
 Husband (nervous, zoom): कौन सी सहेली?
 Wife (shock, shake): वही जो कल घर आई थी!
 Husband (cry): मुझे तो तू ही दिख रही थी, अब बेलन भी दिख रहा है!
-
 =====
 Wife (normal): तुम मुझसे कुछ छुपा रहे हो?
 Husband (shock, zoom): नहीं तो!
 Wife (angry, shake): पक्का?
 Husband (cry): हाँ, बस अपनी बची हुई जिंदगी छुपा रहा हूँ!
-
 =====
 Wife (normal): सुनो जी, कल रात पिज्जा किसके साथ खाया?
 Husband (shock, zoom): दोस्तों के साथ!
 Wife (slap, zoom_shake): अकेले कमरे में दोस्तों के साथ?
 Husband (cry, shake): दोस्त मोबाइल में थे, पिज्जा असली था!
-
 =====
 Wife (normal): तुम ऑफिस में इतना ओवरटाइम क्यों करते हो?
 Husband (nervous, zoom): बॉस काम बहुत देता है!
 Wife (shock, shake): बॉस का नाम बताओ!
 Husband (cry): अब बॉस भी खतरे में है क्या?
-
 =====
 Wife (normal): सुनो जी, मेरी बात सुन रहे हो?
 Husband (normal, zoom): हाँ-हाँ, पूरी सुन रहा हूँ!
 Wife (angry, shake): मैंने क्या कहा?
 Husband (shock, zoom_shake): यही तो सुनने से रह गया!
-
 =====
 Wife (normal): तुमने मेरी फोटो पर लाइक क्यों नहीं किया?
 Husband (shock, zoom): अरे भूल गया था!
 Wife (angry, shake): दूसरी की फोटो पर कैसे याद रहा?
 Husband (cry, zoom_shake): वो गलती थी, अब आखिरी गलती बन गई!
-
 =====
 Wife (normal): सुनो जी, मेरी ड्रेस कैसी लग रही है?
 Husband (romantic, zoom): बहुत सुंदर!
 Wife (happy, shake): और कीमत?
 Husband (shock, zoom_shake): कीमत पूछते ही सुंदरता डरावनी लगने लगी!
-
 =====
 Wife (normal): तुम आज जल्दी घर क्यों आ गए?
 Husband (happy, zoom): तुम्हें सरप्राइज देने!
 Wife (suspicious, shake): सच?
 Husband (cry): हाँ, ऑफिस से छुट्टी मिली तो सोचा घर आकर डाँट खा लूँ!
-
 =====
 Wife (normal): सुनो जी, बाजार से आलू लाए?
 Husband (shock, zoom): अरे भूल गया!
 Wife (angry, shake): और क्या लाए?
 Husband (cry): अपनी शामत… वो जरूर ले आया हूँ!
-
 =====
 Wife (normal): तुमने मेरी चप्पल कहाँ रखी?
 Husband (nervous, zoom): मुझे नहीं पता!
 Wife (shock, shake): तुम पहनकर क्यों घूम रहे हो?
 Husband (cry, zoom_shake): अरे ये तो मेरी किस्मत थी, चप्पल नहीं!
-
 =====
 Wife (normal): सुनो जी, घर साफ किया था?
 Husband (happy, zoom): हाँ बिल्कुल!
 Wife (shock, shake): फिर ये कूड़ा किसका है?
 Husband (cry): कूड़ा पुराना है, सफाई नई है!
-
 =====
 Wife (normal): तुमने फ्रिज में मेरा केक क्यों खाया?
 Husband (shock, zoom): भूख लगी थी!
 Wife (slap, shake): वो मेरा जन्मदिन का केक था!
 Husband (cry): अब जन्मदिन नहीं, मेरी बरसी मनाना!
-
 =====
 Wife (normal): सुनो जी, मेरी साड़ी पर दाग कैसे लगा?
 Husband (nervous, zoom): पता नहीं!
 Wife (shock, shake): तुम्हारी चाय गिराई थी ना?
 Husband (cry): चाय थी या सबूत, समझ नहीं आया!
-
 =====
 Wife (normal): तुम रात में किससे फोन पर बात कर रहे थे?
 Husband (shock, zoom): दोस्त से!
 Wife (angry, shake): महिला की आवाज क्यों थी?
 Husband (cry): दोस्त की बीवी थी… अब वो भी फँस गई!
-
 =====
 Wife (normal): सुनो जी, तुम मुझे देखकर मुस्कुराए क्यों?
 Husband (romantic, zoom): प्यार आता है!
 Wife (happy, shake): सच?
 Husband (cry): हाँ, क्योंकि अभी तक बेलन हाथ में नहीं था!
-
 =====
 Wife (normal): तुमने मेरी पसंद का खाना क्यों नहीं बनाया?
 Husband (nervous, zoom): याद नहीं रहा!
 Wife (slap, shake): मेरी पसंद कैसे भूल गए?
 Husband (cry): अपनी पसंद भी याद नहीं रहती, जान बचाना याद रहता है!
-
 =====
 Wife (normal): सुनो जी, मेरी उम्र कितनी लगती है?
 Husband (shock, zoom): बिल्कुल कम!
 Wife (happy, shake): कितनी?
 Husband (cry): जितनी तुम सुनना चाहो… मैं हिसाब नहीं लगाऊँगा!
-
 =====
 Wife (normal): तुम मेरे बिना एक दिन रह सकते हो?
 Husband (romantic, zoom): बिल्कुल नहीं!
 Wife (happy, shake): इतना प्यार?
 Husband (cry): खाना कौन बनाएगा फिर?
-
 =====
 Wife (normal): सुनो जी, तुमने शादी से पहले मुझे क्या समझा था?
 Husband (romantic, zoom): अपनी रानी!
 Wife (happy, shake): अब?
 Husband (cry): अब समझ आया कि रानी के साथ पूरा राज्य भी आता है!
-
 =====
 Wife (normal): तुम मेरे मायके चलोगे?
 Husband (shock, zoom): आज?
 Wife (angry, shake): हाँ!
 Husband (cry): मेरा शरीर घर जाएगा, आत्मा ऑफिस में रहेगी!
-
 =====
 Wife (normal): सुनो जी, मेरे लिए नई साड़ी लाओगे?
 Husband (nervous, zoom): हाँ!
 Wife (happy, shake): कितनी महँगी?
 Husband (cry): इतनी कि दुकानदार भी बोलेगा, भाई सोच ले!
-
 =====
 Wife (normal): तुमने मेरी लिपस्टिक क्यों इस्तेमाल की?
 Husband (shock, zoom): मैंने नहीं की!
 Wife (angry, shake): फिर मूँछ लाल कैसे हुई?
 Husband (cry, zoom_shake): अब समझ आया, सुबह चाय क्यों मीठी लग रही थी!
-
 =====
 Wife (normal): सुनो जी, मेरी सहेली की शादी हो गई!
 Husband (happy, zoom): बहुत बढ़िया!
 Wife (suspicious, shake): तुम इतना खुश क्यों हो?
 Husband (cry): क्योंकि अब उसकी बातें हमारे घर नहीं आएँगी!
-
 =====
 Wife (normal): तुम मेरे लिए फूल क्यों लाए हो?
 Husband (romantic, zoom): प्यार में!
 Wife (suspicious, shake): सच-सच बोलो!
 Husband (cry): गलती हो गई थी, फूल से मामला शांत करना है!
-
 =====
 Wife (normal): सुनो जी, कल तुमने कहा था मैं बहुत सुंदर लग रही हूँ!
 Husband (romantic, zoom): हाँ!
 Wife (happy, shake): आज क्या लग रही हूँ?
 Husband (shock, zoom_shake): आज भी सुंदर… सवाल वही खतरनाक है!
-
 =====
 Wife (normal): तुमने मेरी चॉकलेट खा ली?
 Husband (shock, zoom): कौन सी?
 Wife (angry, shake): जो फ्रिज में रखी थी!
 Husband (cry): मुझे लगा वो गरीबों के लिए दान थी!
-
 =====
 Wife (normal): सुनो जी, तुम्हारी जेब में ये पर्ची किसकी है?
 Husband (shock, zoom): दुकान की!
 Wife (suspicious, shake): दुकान पर “I Love You” क्यों लिखा है?
 Husband (cry): दुकानदार की बीवी का जन्मदिन था!
-
 =====
 Wife (normal): तुमने आज दाढ़ी क्यों बनाई?
 Husband (happy, zoom): स्मार्ट लगने के लिए!
 Wife (suspicious, shake): किसके लिए?
 Husband (cry): तेरे लिए बनाया था, अब सवालों से चेहरा फिर बूढ़ा हो गया!
-
 =====
 Wife (normal): सुनो जी, मैं गुस्से में कैसी लगती हूँ?
 Husband (nervous, zoom): बहुत प्यारी!
 Wife (angry, shake): झूठ!
 Husband (cry): प्यारी नहीं… बहुत खतरनाक प्यारी!
-
 =====
 Wife (normal): तुमने मेरा फोन क्यों देखा?
 Husband (shock, zoom): बस टाइम देख रहा था!
 Wife (angry, shake): टाइम देखने के लिए पूरी गैलरी क्यों खोली?
 Husband (cry): टाइम बहुत लंबा था!
-
 =====
 Wife (normal): सुनो जी, तुम मेरे लिए क्या कर सकते हो?
 Husband (romantic, zoom): जान भी दे सकता हूँ!
 Wife (happy, shake): सच?
 Husband (cry): हाँ, लेकिन पहले बेलन नीचे रखो!
-
 =====
 Wife (normal): तुम मुझे रोज घुमाने ले जाओगे?
 Husband (happy, zoom): हाँ!
 Wife (happy, shake): कहाँ?
 Husband (cry): छत से आँगन तक… पेट्रोल बचाना है!
-
 =====
 Wife (normal): सुनो जी, मेरी नई चप्पल कैसी है?
 Husband (romantic, zoom): बहुत सुंदर!
 Wife (happy, shake): कीमत पूछोगे?
 Husband (shock, zoom_shake): नहीं, शादीशुदा आदमी इतना रिस्क नहीं लेता!
-
 =====
 Wife (normal): तुमने मेरी अलमारी में अपनी शर्ट क्यों रखी?
 Husband (nervous, zoom): जगह नहीं थी!
 Wife (angry, shake): मेरी साड़ियों के बीच?
 Husband (cry): सोचा कम से कम सुरक्षित रहेगी!
-
 =====
 Wife (normal): सुनो जी, तुम मुझे प्यार करते हो?
 Husband (romantic, zoom): बहुत!
 Wife (happy, shake): कितना?
 Husband (cry): जितना बिजली का बिल देखकर डरता हूँ, उससे भी ज्यादा!
-
 =====
 Wife (normal): तुमने रात को किचन में क्या किया?
 Husband (shock, zoom): पानी पीने गया था!
 Wife (suspicious, shake): गैस क्यों जल रही थी?
 Husband (cry): पानी गरम करने गया था… भूख ने बीच में धोखा दे दिया!
-
 =====
 Wife (normal): सुनो जी, आज तुम खाना बनाओगे?
 Husband (shock, zoom): हाँ!
 Wife (happy, shake): क्या बनाओगे?
 Husband (cry): जो तुम बनाओगी, वही खाऊँगा!
-
 =====
 Wife (normal): तुमने मेरे मेकअप पर इतना पैसा क्यों खर्च होने दिया?
 Husband (shock, zoom): मैंने थोड़ी खर्च किया!
 Wife (angry, shake): कार्ड किसका था?
 Husband (cry): कार्ड मेरा था, फैसला तेरा था!
-
 =====
 Wife (normal): सुनो जी, मेरी फोटो में मैं मोटी लग रही हूँ?
 Husband (nervous, zoom): बिल्कुल नहीं!
 Wife (happy, shake): सच?
 Husband (cry): कैमरा मोटा था, तू नहीं!
-
 =====
 Wife (normal): तुमने मेरा पसंदीदा टीवी चैनल क्यों बदल दिया?
 Husband (shock, zoom): गलती से!
 Wife (angry, shake): फिर क्रिकेट कैसे लग गया?
 Husband (cry): रिमोट ने खुद फैसला लिया था!
-
 =====
 Wife (normal): सुनो जी, तुमने मुझे आज “मैडम” क्यों कहा?
 Husband (nervous, zoom): इज्जत से!
 Wife (suspicious, shake): डर के मारे?
 Husband (cry): दोनों का कॉम्बो था!
-
 =====
 Wife (normal): तुमने मेरी मिठाई खा ली?
 Husband (shock, zoom): बस एक टुकड़ा!
 Wife (slap, shake): पूरा डिब्बा खाली है!
 Husband (cry): बाकी टुकड़े मेरे पेट ने खा लिए!
-
 =====
 Wife (normal): सुनो जी, शादी के बाद तुम्हारी जिंदगी कैसी है?
 Husband (nervous, zoom): बहुत शानदार!
 Wife (happy, shake): सच?
 Husband (cry): हाँ, रोज नया अनुभव मिलता है… खासकर डाँट का!
-
 =====
 Wife (normal): तुम मुझसे डरते हो क्या?
 Husband (nervous, zoom): थोड़ा सा!
 Wife (angry, shake): थोड़ा?
 Husband (shock, zoom_shake): बाकी डर शब्दों में बताना सुरक्षित नहीं है!
-
 =====
 Wife (normal): सुनो जी, मैं मायके चली जाऊँ तो याद करोगे?
 Husband (romantic, zoom): बहुत!
 Wife (happy, shake): कितना?
 Husband (cry): पहले दिन बहुत… दूसरे दिन खाना याद आएगा!
-
 =====
 Wife (normal): तुमने आज ऑफिस जाने से मना क्यों किया?
 Husband (shock, zoom): तबीयत खराब थी!
 Wife (angry, shake): अब तो बिल्कुल ठीक लग रहे हो!
 Husband (cry): आपकी आवाज सुनते ही बीमारी भाग गई!
-
 =====
 Wife (normal): सुनो जी, ये शॉपिंग का बिल इतना बड़ा क्यों है?
 Husband (shock, zoom): मुझे नहीं पता!
 Wife (angry, shake): पैसे तुमने दिए थे!
 Husband (cry): पैसे मेरे थे, शॉपिंग तेरी थी!
-
 =====
 Wife (normal): तुमने मेरे लिए नया फोन खरीदा?
 Husband (happy, zoom): हाँ!
 Wife (excited, shake): कितना महँगा?
 Husband (cry): इतना कि अब मैं अपना पुराना फोन भी बेचने वाला हूँ!
-
 =====
 Wife (normal): सुनो जी, मेरी साड़ी पर कॉम्प्लिमेंट दो!
 Husband (romantic, zoom): बहुत सुंदर लग रही हो!
 Wife (happy, shake): और कुछ?
 Husband (cry): साड़ी भी सुंदर है… बिल मत दिखाना!
-
 =====
 Wife (normal): तुमने आज मुझे “जान” क्यों नहीं कहा?
 Husband (nervous, zoom): भूल गया!
 Wife (angry, shake): क्या भूल गए?
 Husband (cry): कि घर में मेरी जान कौन है!
-
 =====
 Wife (normal): सुनो जी, तुम मेरी हर बात मानते हो?
 Husband (romantic, zoom): बिल्कुल!
 Wife (happy, shake): सच?
 Husband (cry): हाँ, अपनी बात छोड़कर!
-
 =====
 Wife (normal): तुमने मेरे बालों की तारीफ क्यों नहीं की?
 Husband (shock, zoom): कर तो रहा हूँ!
 Wife (angry, shake): कब?
 Husband (cry): मन ही मन… जोर से बोलने की हिम्मत नहीं हुई!
-
 =====
 Wife (normal): सुनो जी, तुम्हें मेरी कौन सी आदत अच्छी लगती है?
 Husband (romantic, zoom): तुम्हारा प्यार!
 Wife (happy, shake): और बुरी?
 Husband (cry): प्यार के साथ आने वाली पूछताछ!
-
 =====
 Wife (normal): तुम मुझे छोड़कर कहीं जा सकते हो?
 Husband (shock, zoom): नहीं!
 Wife (happy, shake): इतना प्यार?
 Husband (cry): नहीं, अकेले होटल में खाना बनाना नहीं आता!
-
 =====
 Wife (normal): सुनो जी, आज मेरे साथ बाजार चलोगे?
 Husband (nervous, zoom): हाँ!
 Wife (happy, shake): खुशी से?
 Husband (cry): नहीं, डर से!
-
 =====
 Wife (normal): तुमने मेरी पसंद का रंग कैसे भूल गए?
 Husband (shock, zoom): याद तो है!
 Wife (angry, shake): कौन सा?
 Husband (cry): जो तुम बोलोगी, वही सही रंग है!
-
 =====
 Wife (normal): सुनो जी, तुम्हें मेरे हाथ का खाना कैसा लगता है?
 Husband (romantic, zoom): लाजवाब!
 Wife (happy, shake): सबसे अच्छा?
 Husband (cry): हाँ, क्योंकि इसके साथ डाँट फ्री मिलती है!
-
 =====
 Wife (normal): तुमने मेरा जन्मदिन याद रखा?
 Husband (happy, zoom): बिल्कुल!
 Wife (happy, shake): गिफ्ट कहाँ है?
 Husband (shock, zoom_shake): जन्मदिन याद था, गिफ्ट खरीदना भूल गया!
-
 =====
 Wife (normal): सुनो जी, तुमने मुझे आज देखा भी नहीं!
 Husband (shock, zoom): देखा था!
 Wife (angry, shake): कब?
 Husband (cry): जब तूने बेलन उठाया था, उसके बाद आँखें नीचे थीं!
-
 =====
 Wife (normal): तुमने मेरी बात काटी क्यों?
 Husband (nervous, zoom): गलती से!
 Wife (angry, shake): मेरी बात काटना पसंद है?
 Husband (cry): नहीं, जिंदगी काटना नहीं चाहता!
-
 =====
 Wife (normal): सुनो जी, अगर मैं तुमसे नाराज हो जाऊँ तो?
 Husband (shock, zoom): मैं मना लूँगा!
 Wife (angry, shake): नहीं मानी तो?
 Husband (cry): फिर मैं भी नाराज होने का नाटक करूँगा!
-
 =====
 Wife (normal): तुम मेरे लिए चाँद तोड़कर ला सकते हो?
 Husband (romantic, zoom): हाँ जान!
 Wife (happy, shake): सच में?
 Husband (cry): हाँ, बस NASA का नंबर दिला दे!
-
 =====
 Wife (normal): सुनो जी, मेरी सहेली ने नया घर लिया है!
 Husband (happy, zoom): बहुत बढ़िया!
 Wife (suspicious, shake): तुम्हें इतना अच्छा क्यों लगा?
 Husband (cry): क्योंकि अब उसकी शॉपिंग हमारे घर नहीं होगी!
-
 =====
 Wife (normal): तुमने मेरी चूड़ी क्यों छुपाई?
 Husband (shock, zoom): मैंने नहीं छुपाई!
 Wife (angry, shake): फिर तुम्हारी जेब में कैसे?
 Husband (cry): जेब भी आज मेरे खिलाफ है!
-
 =====
 Wife (normal): सुनो जी, तुम्हारे लिए मैं क्या हूँ?
 Husband (romantic, zoom): मेरी दुनिया!
 Wife (happy, shake): और घर में?
 Husband (cry): घर में तो तुम सरकार हो!
-
 =====
 Wife (normal): तुमने मेरे सामने दूसरी लड़की को क्यों देखा?
 Husband (shock, zoom): मैंने नहीं देखा!
 Wife (angry, shake): आँखें किसलिए हैं?
 Husband (cry): अब से नीचे देखने के लिए!
-
 =====
 Wife (normal): सुनो जी, तुमने आज इतना परफ्यूम क्यों लगाया?
 Husband (nervous, zoom): बस ऐसे ही!
 Wife (suspicious, shake): किससे मिलने जाना है?
 Husband (cry): आपसे ही… खुशबू से पहले डर पहुँचाना था!
-
 =====
 Wife (normal): तुमने मेरा तकिया क्यों लिया?
 Husband (shock, zoom): नींद नहीं आ रही थी!
 Wife (angry, shake): मेरा तकिया ही मिला?
 Husband (cry): अपना तकिया तेरी चीजों के बीच ढूँढते-ढूँढते सुबह हो गई!
-
 =====
 Wife (normal): सुनो जी, तुम मेरी बात मानोगे?
 Husband (romantic, zoom): आँख बंद करके!
 Wife (happy, shake): पक्का?
 Husband (cry): हाँ, आँख खोलूँगा तो डर लग जाएगा!
-
 =====
 Wife (normal): तुमने कल रात पिज्जा खाया था?
 Husband (shock, zoom): नहीं!
 Wife (slap, zoom_shake): डिब्बा कूड़ेदान में कैसे आया?
 Husband (cry, shake): पिज्जा तो खा लिया, अब झूठ भी पचाना पड़ेगा!
-
 =====
 Wife (normal): सुनो जी, अगली बार झूठ बोला तो?
 Husband (nervous, zoom): नहीं बोलूँगा!
 Wife (angry, shake): पक्का?
 Husband (cry, zoom_shake): पक्का! अब सच बोलकर ही पिटूँगा!
-
 =====
 Wife (funny, zoom): सुनो जी, घर में सबसे ज्यादा किसकी चलती है?
 Husband (nervous, shake): आपकी!
