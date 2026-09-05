@@ -1,8 +1,3 @@
-Wife (normal): सुनो जी, फोन में पासवर्ड क्यों लगाया है?
-Husband (nervous, zoom): अरे प्राइवेसी के लिए!
-Wife (shock, shake): मुझसे क्या प्राइवेसी?
-Husband (cry, zoom_shake): अब तो अपनी जान बचाने के लिए लगाया है!
-=====
 Wife (normal): आज खाना कैसा बना है?
 Husband (nervous, zoom): बहुत बढ़िया बना है!
 Wife (happy, shake): सच बोल रहे हो?
