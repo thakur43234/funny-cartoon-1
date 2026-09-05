@@ -106,14 +106,17 @@ def upload_to_youtube(video_file):
         print("❌ Token not found!")
         return False
         
-    yt_titles = ["Husband vs Wife 😂 | Funny Joke", "लोटपोट कर देने वाला जोक 🤣", "पति पत्नी की लड़ाई 😆 | Funny Shorts"]
+    # जोक्स के लिए कुछ रैंडम टाइटल (आप इन्हें अपने हिसाब से बदल सकते हैं)
+    joke_titles = [
+        "Husband Wife Funny Comedy 😂",
+        "Top Husband Wife Jokes in Hindi 🤣",
+        "Very Funny Comedy Video 😆"
+    ]
+    yt_title = random.choice(joke_titles)
+    
+    # सिर्फ Title रखा गया है, Description और Tags हटा दिए गए हैं
     request_body = {
-        "snippet": {
-            "title": random.choice(yt_titles), 
-            "description": "Trending Husband Wife funny joke! Subscribe for daily comedy shorts! #funny #comedy #shorts #husbandwife", 
-            "tags": ["funny", "comedy", "husband wife joke", "hindi jokes", "make joke of"], 
-            "categoryId": "23" 
-        },
+        "snippet": {"title": yt_title, "categoryId": "27"}, 
         "status": {"privacyStatus": "public", "selfDeclaredMadeForKids": False}
     }
 
