@@ -1,8 +1,3 @@
-Wife (normal): सुनो जी, मेरी नई साड़ी कैसी लग रही है?
-Husband (romantic, zoom): एकदम रानी लग रही हो!
-Wife (happy, shake): सच में?
-Husband (shock, zoom_shake): हाँ… बिल देखकर राजा जरूर गरीब हो गया!
-=====
 Wife (normal): तुमने मेरी अलमारी क्यों खोली?
 Husband (shock, zoom): अरे कपड़े ढूँढ रहा था!
 Wife (angry, shake): अपने कपड़े मेरी अलमारी में क्यों?
