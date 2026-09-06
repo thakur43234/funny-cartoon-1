@@ -1,8 +1,3 @@
-Wife (normal): सुनो जी, आज मेरे लिए क्या लाए हो?
-Husband (happy, zoom): सरप्राइज है!
-Wife (excited, shake): जल्दी दिखाओ!
-Husband (cry): पहले बेलन नीचे रखो, फिर सरप्राइज दिखाता हूँ!
-=====
 Wife (normal): तुम मुझसे शादी करके खुश हो?
 Husband (nervous, zoom): बहुत खुश हूँ!
 Wife (happy, shake): कितने खुश?
