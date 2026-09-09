@@ -1,8 +1,3 @@
-Wife (normal): सुनो जी, कल रात पिज्जा किसके साथ खाया?
-Husband (shock, zoom): दोस्तों के साथ!
-Wife (slap, zoom_shake): अकेले कमरे में दोस्तों के साथ?
-Husband (cry, shake): दोस्त मोबाइल में थे, पिज्जा असली था!
-=====
 Wife (normal): तुम ऑफिस में इतना ओवरटाइम क्यों करते हो?
 Husband (nervous, zoom): बॉस काम बहुत देता है!
 Wife (shock, shake): बॉस का नाम बताओ!
