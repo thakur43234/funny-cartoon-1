@@ -1,8 +1,3 @@
-Wife (normal): सुनो जी, मेरी बात सुन रहे हो?
-Husband (normal, zoom): हाँ-हाँ, पूरी सुन रहा हूँ!
-Wife (angry, shake): मैंने क्या कहा?
-Husband (shock, zoom_shake): यही तो सुनने से रह गया!
-=====
 Wife (normal): तुमने मेरी फोटो पर लाइक क्यों नहीं किया?
 Husband (shock, zoom): अरे भूल गया था!
 Wife (angry, shake): दूसरी की फोटो पर कैसे याद रहा?
