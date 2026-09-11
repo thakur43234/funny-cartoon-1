@@ -1,8 +1,3 @@
-Wife (normal): तुम आज जल्दी घर क्यों आ गए?
-Husband (happy, zoom): तुम्हें सरप्राइज देने!
-Wife (suspicious, shake): सच?
-Husband (cry): हाँ, ऑफिस से छुट्टी मिली तो सोचा घर आकर डाँट खा लूँ!
-=====
 Wife (normal): सुनो जी, बाजार से आलू लाए?
 Husband (shock, zoom): अरे भूल गया!
 Wife (angry, shake): और क्या लाए?
