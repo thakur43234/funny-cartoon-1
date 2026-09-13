@@ -1,8 +1,3 @@
-Wife (normal): सुनो जी, तुम मुझे देखकर मुस्कुराए क्यों?
-Husband (romantic, zoom): प्यार आता है!
-Wife (happy, shake): सच?
-Husband (cry): हाँ, क्योंकि अभी तक बेलन हाथ में नहीं था!
-=====
 Wife (normal): तुमने मेरी पसंद का खाना क्यों नहीं बनाया?
 Husband (nervous, zoom): याद नहीं रहा!
 Wife (slap, shake): मेरी पसंद कैसे भूल गए?
