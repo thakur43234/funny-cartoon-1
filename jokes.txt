@@ -1,8 +1,3 @@
-Wife (normal): सुनो जी, तुमने शादी से पहले मुझे क्या समझा था?
-Husband (romantic, zoom): अपनी रानी!
-Wife (happy, shake): अब?
-Husband (cry): अब समझ आया कि रानी के साथ पूरा राज्य भी आता है!
-=====
 Wife (normal): तुम मेरे मायके चलोगे?
 Husband (shock, zoom): आज?
 Wife (angry, shake): हाँ!
