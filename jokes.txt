@@ -1,8 +1,3 @@
-Wife (normal): सुनो जी, कल तुमने कहा था मैं बहुत सुंदर लग रही हूँ!
-Husband (romantic, zoom): हाँ!
-Wife (happy, shake): आज क्या लग रही हूँ?
-Husband (shock, zoom_shake): आज भी सुंदर… सवाल वही खतरनाक है!
-=====
 Wife (normal): तुमने मेरी चॉकलेट खा ली?
 Husband (shock, zoom): कौन सी?
 Wife (angry, shake): जो फ्रिज में रखी थी!
