@@ -1,8 +1,3 @@
-Wife (normal): सुनो जी, तुम मेरे लिए क्या कर सकते हो?
-Husband (romantic, zoom): जान भी दे सकता हूँ!
-Wife (happy, shake): सच?
-Husband (cry): हाँ, लेकिन पहले बेलन नीचे रखो!
-=====
 Wife (normal): तुम मुझे रोज घुमाने ले जाओगे?
 Husband (happy, zoom): हाँ!
 Wife (happy, shake): कहाँ?
