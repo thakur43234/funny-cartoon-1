@@ -1,8 +1,3 @@
-Wife (normal): तुमने मेरा जन्मदिन याद रखा?
-Husband (happy, zoom): बिल्कुल!
-Wife (happy, shake): गिफ्ट कहाँ है?
-Husband (shock, zoom_shake): जन्मदिन याद था, गिफ्ट खरीदना भूल गया!
-=====
 Wife (normal): सुनो जी, तुमने मुझे आज देखा भी नहीं!
 Husband (shock, zoom): देखा था!
 Wife (angry, shake): कब?
