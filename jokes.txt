@@ -1,8 +1,3 @@
-Wife (normal): सुनो जी, मेरी सहेली ने नया घर लिया है!
-Husband (happy, zoom): बहुत बढ़िया!
-Wife (suspicious, shake): तुम्हें इतना अच्छा क्यों लगा?
-Husband (cry): क्योंकि अब उसकी शॉपिंग हमारे घर नहीं होगी!
-=====
 Wife (normal): तुमने मेरी चूड़ी क्यों छुपाई?
 Husband (shock, zoom): मैंने नहीं छुपाई!
 Wife (angry, shake): फिर तुम्हारी जेब में कैसे?
