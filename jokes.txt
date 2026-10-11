@@ -1,8 +1,3 @@
-Wife (normal): सुनो जी, तुम मेरी बात मानोगे?
-Husband (romantic, zoom): आँख बंद करके!
-Wife (happy, shake): पक्का?
-Husband (cry): हाँ, आँख खोलूँगा तो डर लग जाएगा!
-=====
 Wife (normal): तुमने कल रात पिज्जा खाया था?
 Husband (shock, zoom): नहीं!
 Wife (slap, zoom_shake): डिब्बा कूड़ेदान में कैसे आया?
